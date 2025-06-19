@@ -1,2 +1,1 @@
-# LearningJS
-Basic learning of JavaScript
+#calculator App
